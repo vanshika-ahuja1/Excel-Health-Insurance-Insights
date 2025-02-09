@@ -39,7 +39,7 @@ The dataset includes the following columns:
 
 You can download the Excel file to explore the dashboard and data by clicking the link below:
 
-[Download the Excel File (.xlsx)](https://github.com/vanshika-ahuja1/Excel-Health-Insurance-Insights/blob/main/insurance.xlsx)  
+[Download the Excel File (.xlsx)](https://github.com/vanshika-ahuja1/Excel-Health-Insurance-Insights/raw/main/insurance.xlsx)
 *Note: The file is hosted directly in this repository.*
 
 ## Installation and Usage 🚀
